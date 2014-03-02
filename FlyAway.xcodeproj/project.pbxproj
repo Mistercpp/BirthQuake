@@ -15,10 +15,6 @@
 		0C39616718AE502D0016E5D2 /* start_line.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C39616118AE502D0016E5D2 /* start_line.jpg */; };
 		0C39616818AE502D0016E5D2 /* finish_line.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C39616218AE502D0016E5D2 /* finish_line.jpg */; };
 		0C39616918AE502D0016E5D2 /* bg.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C39616318AE502D0016E5D2 /* bg.jpg */; };
-		0C39616B18AE502D0016E5D2 /* pigs.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C39616518AE502D0016E5D2 /* pigs.png */; };
-		0C39616C18AE502D0016E5D2 /* Bad_Bird.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C39616618AE502D0016E5D2 /* Bad_Bird.png */; };
-		0C404C0618C2C77E00CC197E /* arriver.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C404C0418C2C77E00CC197E /* arriver.png */; };
-		0C404C0718C2C77E00CC197E /* depart.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C404C0518C2C77E00CC197E /* depart.png */; };
 		0C404C0918C2C9D400CC197E /* arriver2.jpeg in Resources */ = {isa = PBXBuildFile; fileRef = 0C404C0818C2C9D400CC197E /* arriver2.jpeg */; };
 		0C404C0C18C2CB0B00CC197E /* arriver3.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C404C0A18C2CB0B00CC197E /* arriver3.png */; };
 		0C404C0D18C2CB0B00CC197E /* dep.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C404C0B18C2CB0B00CC197E /* dep.png */; };
@@ -27,10 +23,6 @@
 		0C435D8D18C0B2A600AE58DE /* SettingsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C435D8C18C0B2A600AE58DE /* SettingsViewController.m */; };
 		0C435D9018C0B30D00AE58DE /* HomeViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 0C435D8F18C0B30D00AE58DE /* HomeViewController.m */; };
 		0C9CDDFC18B7545E009C4F76 /* fly-away.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9CDDFB18B7545E009C4F76 /* fly-away.png */; };
-		0C9CDE0018B7557B009C4F76 /* Angry-Birds-Space.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0C9CDDFF18B7557B009C4F76 /* Angry-Birds-Space.jpg */; };
-		0C9CDE0218B7572D009C4F76 /* bg_640_1136.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9CDE0118B7572D009C4F76 /* bg_640_1136.png */; };
-		0C9CDE0D18B75E7B009C4F76 /* finish.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9CDE0B18B75E7B009C4F76 /* finish.png */; };
-		0C9CDE0E18B75E7B009C4F76 /* start.png in Resources */ = {isa = PBXBuildFile; fileRef = 0C9CDE0C18B75E7B009C4F76 /* start.png */; };
 		0CA877F918C2BD2400CB6EBE /* fond.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 0CA877F818C2BD2400CB6EBE /* fond.jpg */; };
 		0CA877FB18C2C42100CB6EBE /* hero.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CA877FA18C2C42100CB6EBE /* hero.png */; };
 		0CA877FD18C2C43200CB6EBE /* virus.png in Resources */ = {isa = PBXBuildFile; fileRef = 0CA877FC18C2C43200CB6EBE /* virus.png */; };
@@ -53,13 +45,9 @@
 		F8B4AD2C1860A41400C30785 /* UIKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = F8B4AD0E1860A41400C30785 /* UIKit.framework */; };
 		F8B4AD341860A41400C30785 /* InfoPlist.strings in Resources */ = {isa = PBXBuildFile; fileRef = F8B4AD321860A41400C30785 /* InfoPlist.strings */; };
 		F8B4AD361860A41400C30785 /* FlyAwayTests.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B4AD351860A41400C30785 /* FlyAwayTests.m */; };
-		F8B4AD451860A44E00C30785 /* Ciel.jpg in Resources */ = {isa = PBXBuildFile; fileRef = F8B4AD401860A44E00C30785 /* Ciel.jpg */; };
-		F8B4AD461860A44E00C30785 /* Montgolfiere.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B4AD411860A44E00C30785 /* Montgolfiere.png */; };
-		F8B4AD481860A44E00C30785 /* Vol.png in Resources */ = {isa = PBXBuildFile; fileRef = F8B4AD431860A44E00C30785 /* Vol.png */; };
 		F8B4AD531860A49500C30785 /* FlyAwayViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B4AD4C1860A49500C30785 /* FlyAwayViewController.m */; };
 		F8B4AD541860A49500C30785 /* Hero.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B4AD4E1860A49500C30785 /* Hero.m */; };
 		F8B4AD551860A49500C30785 /* ObjetVisible.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B4AD501860A49500C30785 /* ObjetVisible.m */; };
-		F8B4AD561860A49500C30785 /* Obstacle.m in Sources */ = {isa = PBXBuildFile; fileRef = F8B4AD521860A49500C30785 /* Obstacle.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -81,10 +69,6 @@
 		0C39616118AE502D0016E5D2 /* start_line.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = start_line.jpg; sourceTree = "<group>"; };
 		0C39616218AE502D0016E5D2 /* finish_line.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = finish_line.jpg; sourceTree = "<group>"; };
 		0C39616318AE502D0016E5D2 /* bg.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = bg.jpg; sourceTree = "<group>"; };
-		0C39616518AE502D0016E5D2 /* pigs.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = pigs.png; sourceTree = "<group>"; };
-		0C39616618AE502D0016E5D2 /* Bad_Bird.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Bad_Bird.png; sourceTree = "<group>"; };
-		0C404C0418C2C77E00CC197E /* arriver.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arriver.png; sourceTree = "<group>"; };
-		0C404C0518C2C77E00CC197E /* depart.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = depart.png; sourceTree = "<group>"; };
 		0C404C0818C2C9D400CC197E /* arriver2.jpeg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = arriver2.jpeg; sourceTree = "<group>"; };
 		0C404C0A18C2CB0B00CC197E /* arriver3.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = arriver3.png; sourceTree = "<group>"; };
 		0C404C0B18C2CB0B00CC197E /* dep.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dep.png; sourceTree = "<group>"; };
@@ -95,10 +79,6 @@
 		0C435D8E18C0B30D00AE58DE /* HomeViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = HomeViewController.h; sourceTree = "<group>"; };
 		0C435D8F18C0B30D00AE58DE /* HomeViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = HomeViewController.m; sourceTree = "<group>"; };
 		0C9CDDFB18B7545E009C4F76 /* fly-away.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "fly-away.png"; sourceTree = "<group>"; };
-		0C9CDDFF18B7557B009C4F76 /* Angry-Birds-Space.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "Angry-Birds-Space.jpg"; sourceTree = "<group>"; };
-		0C9CDE0118B7572D009C4F76 /* bg_640_1136.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = bg_640_1136.png; sourceTree = "<group>"; };
-		0C9CDE0B18B75E7B009C4F76 /* finish.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = finish.png; sourceTree = "<group>"; };
-		0C9CDE0C18B75E7B009C4F76 /* start.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = start.png; sourceTree = "<group>"; };
 		0CA877F818C2BD2400CB6EBE /* fond.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = fond.jpg; sourceTree = "<group>"; };
 		0CA877FA18C2C42100CB6EBE /* hero.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = hero.png; sourceTree = "<group>"; };
 		0CA877FC18C2C43200CB6EBE /* virus.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = virus.png; sourceTree = "<group>"; };
@@ -125,9 +105,6 @@
 		F8B4AD311860A41400C30785 /* FlyAwayTests-Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = "FlyAwayTests-Info.plist"; sourceTree = "<group>"; };
 		F8B4AD331860A41400C30785 /* en */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = en; path = en.lproj/InfoPlist.strings; sourceTree = "<group>"; };
 		F8B4AD351860A41400C30785 /* FlyAwayTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = FlyAwayTests.m; sourceTree = "<group>"; };
-		F8B4AD401860A44E00C30785 /* Ciel.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = Ciel.jpg; sourceTree = "<group>"; };
-		F8B4AD411860A44E00C30785 /* Montgolfiere.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Montgolfiere.png; sourceTree = "<group>"; };
-		F8B4AD431860A44E00C30785 /* Vol.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Vol.png; sourceTree = "<group>"; };
 		F8B4AD4A1860A49500C30785 /* Constantes.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Constantes.h; sourceTree = "<group>"; };
 		F8B4AD4B1860A49500C30785 /* FlyAwayViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FlyAwayViewController.h; sourceTree = "<group>"; };
 		F8B4AD4C1860A49500C30785 /* FlyAwayViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FlyAwayViewController.m; sourceTree = "<group>"; };
@@ -136,7 +113,6 @@
 		F8B4AD4F1860A49500C30785 /* ObjetVisible.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = ObjetVisible.h; sourceTree = "<group>"; };
 		F8B4AD501860A49500C30785 /* ObjetVisible.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ObjetVisible.m; sourceTree = "<group>"; };
 		F8B4AD511860A49500C30785 /* Obstacle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Obstacle.h; sourceTree = "<group>"; };
-		F8B4AD521860A49500C30785 /* Obstacle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = Obstacle.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -219,7 +195,6 @@
 				F8B4AD4F1860A49500C30785 /* ObjetVisible.h */,
 				F8B4AD501860A49500C30785 /* ObjetVisible.m */,
 				F8B4AD511860A49500C30785 /* Obstacle.h */,
-				F8B4AD521860A49500C30785 /* Obstacle.m */,
 				F8B4AD191860A41400C30785 /* AppDelegate.h */,
 				F8B4AD1A1860A41400C30785 /* AppDelegate.m */,
 				F8B4AD1C1860A41400C30785 /* Main.storyboard */,
@@ -268,18 +243,12 @@
 				0C404C0A18C2CB0B00CC197E /* arriver3.png */,
 				0C404C0B18C2CB0B00CC197E /* dep.png */,
 				0C404C0818C2C9D400CC197E /* arriver2.jpeg */,
-				0C404C0418C2C77E00CC197E /* arriver.png */,
-				0C404C0518C2C77E00CC197E /* depart.png */,
 				0CA877FC18C2C43200CB6EBE /* virus.png */,
 				0CA877FA18C2C42100CB6EBE /* hero.png */,
 				0CA877F818C2BD2400CB6EBE /* fond.jpg */,
 				0CFE6A5818C0E0F800572077 /* speaker_off.png */,
 				0CFE6A5918C0E0F800572077 /* speaker_on.png */,
 				0C11B1C718B9E6EA00B531D5 /* settings.png */,
-				0C9CDE0B18B75E7B009C4F76 /* finish.png */,
-				0C9CDE0C18B75E7B009C4F76 /* start.png */,
-				0C9CDE0118B7572D009C4F76 /* bg_640_1136.png */,
-				0C9CDDFF18B7557B009C4F76 /* Angry-Birds-Space.jpg */,
 				0C9CDDFB18B7545E009C4F76 /* fly-away.png */,
 				0CD26F8918B6335A0004352A /* fai-29.png */,
 				0CD26F8A18B6335A0004352A /* faic-40.png */,
@@ -290,11 +259,6 @@
 				0C39616118AE502D0016E5D2 /* start_line.jpg */,
 				0C39616218AE502D0016E5D2 /* finish_line.jpg */,
 				0C39616318AE502D0016E5D2 /* bg.jpg */,
-				0C39616518AE502D0016E5D2 /* pigs.png */,
-				0C39616618AE502D0016E5D2 /* Bad_Bird.png */,
-				F8B4AD401860A44E00C30785 /* Ciel.jpg */,
-				F8B4AD411860A44E00C30785 /* Montgolfiere.png */,
-				F8B4AD431860A44E00C30785 /* Vol.png */,
 			);
 			path = Images;
 			sourceTree = "<group>";
@@ -379,31 +343,20 @@
 				0C39616718AE502D0016E5D2 /* start_line.jpg in Resources */,
 				0CD26F8E18B6335A0004352A /* faic-60.png in Resources */,
 				0C32B4A418B610570009E851 /* fals_640_1136.png in Resources */,
-				0C404C0718C2C77E00CC197E /* depart.png in Resources */,
 				0CA877FD18C2C43200CB6EBE /* virus.png in Resources */,
 				0C39616918AE502D0016E5D2 /* bg.jpg in Resources */,
-				0C9CDE0D18B75E7B009C4F76 /* finish.png in Resources */,
 				0CA877F918C2BD2400CB6EBE /* fond.jpg in Resources */,
-				F8B4AD451860A44E00C30785 /* Ciel.jpg in Resources */,
 				0C11B1C818B9E6EA00B531D5 /* settings.png in Resources */,
 				0C32B4A318B610570009E851 /* fals_640_960.png in Resources */,
 				0C404C0C18C2CB0B00CC197E /* arriver3.png in Resources */,
-				0C9CDE0018B7557B009C4F76 /* Angry-Birds-Space.jpg in Resources */,
 				0CA877FB18C2C42100CB6EBE /* hero.png in Resources */,
 				0C404C0D18C2CB0B00CC197E /* dep.png in Resources */,
 				0C274B1018B6282500D6E3C6 /* hp.png in Resources */,
 				0C435D8718C09DF900AE58DE /* game_audio_loop.mp3 in Resources */,
-				0C9CDE0E18B75E7B009C4F76 /* start.png in Resources */,
-				F8B4AD461860A44E00C30785 /* Montgolfiere.png in Resources */,
 				0CD26F8C18B6335A0004352A /* fai-29.png in Resources */,
 				0CFE6A5B18C0E0F800572077 /* speaker_on.png in Resources */,
-				F8B4AD481860A44E00C30785 /* Vol.png in Resources */,
 				0CD26F8D18B6335A0004352A /* faic-40.png in Resources */,
 				0CD26F8818B632910004352A /* fasound.mp3 in Resources */,
-				0C9CDE0218B7572D009C4F76 /* bg_640_1136.png in Resources */,
-				0C39616C18AE502D0016E5D2 /* Bad_Bird.png in Resources */,
-				0C404C0618C2C77E00CC197E /* arriver.png in Resources */,
-				0C39616B18AE502D0016E5D2 /* pigs.png in Resources */,
 				F8B4AD231860A41400C30785 /* Images.xcassets in Resources */,
 				F8B4AD151860A41400C30785 /* InfoPlist.strings in Resources */,
 				0C9CDDFC18B7545E009C4F76 /* fly-away.png in Resources */,
@@ -431,7 +384,6 @@
 				F8B4AD541860A49500C30785 /* Hero.m in Sources */,
 				F8B4AD1B1860A41400C30785 /* AppDelegate.m in Sources */,
 				F8B4AD551860A49500C30785 /* ObjetVisible.m in Sources */,
-				F8B4AD561860A49500C30785 /* Obstacle.m in Sources */,
 				F8B4AD531860A49500C30785 /* FlyAwayViewController.m in Sources */,
 				F8B4AD171860A41400C30785 /* main.m in Sources */,
 				0C435D8D18C0B2A600AE58DE /* SettingsViewController.m in Sources */,
